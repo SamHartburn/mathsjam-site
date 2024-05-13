@@ -27,4 +27,4 @@ If you want to read more about what MathsJam Gathering is like, you can:
 - Read [Rachel Wright's thoughts about attending MathsJam in 2014](http://www.solipsys.co.uk/new/ANonMathematicianAtMathsJam.html?TW_20160514)
 
 ## Sign up to the mailing list
-If you want us to email you when tickets for MathsJam Gathering go on sale, you can [join our mailing list](TODO: LINK HERE).
+If you want us to email you when tickets for MathsJam Gathering go on sale, you can [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSceb7PpP3qU8OcrCu_g8vHV9DVhDxo85pkP0Cqw7W4Flnkh9A/viewform?usp=sf_link).
