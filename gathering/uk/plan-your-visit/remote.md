@@ -16,7 +16,7 @@ The MathsJamJam will also be livestreamed so you can watch, listen and sing alon
 
 ## Interacting with the event
 
-The interactive part of the event will take place via the YouTube chat feature on the livestream, which will be open to both remote and in-person attendees. There is also a Signal chat group that is available to all attendees.
+The interactive part of the event will take place via the YouTube chat feature on the livestream, which will be open to both remote and in-person attendees. There is also a Signal chat group that is available to all attendees, the link to which is included in the email when you register for the event.
 
 After each session of talks, there’ll be a 30-minute break when we’ll be directing the speakers to answer questions at the front of the stage. If you have any questions for speakers you can enter these using the YouTube chat or the Signal group; speakers will be encouraged to check these during the break after their talk.
 
